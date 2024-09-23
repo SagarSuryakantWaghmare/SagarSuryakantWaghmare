@@ -79,8 +79,5 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sagarsuryakantwaghmare&theme=radical&hide_border=true" alt="Contribution Graph" />
-</div>
 
 <br/>
