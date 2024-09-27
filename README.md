@@ -25,7 +25,7 @@
   <a href="https://www.hackerrank.com/sagarwaghmare131" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Hackerrank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank" />
   </a>
-  <a href="https://www.leetcode.com/sagarsuryakantwaghmare" target="_blank">
+  <a href="https://www.leetcode.com/unknownultima44" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" />
   </a>
 </p>
