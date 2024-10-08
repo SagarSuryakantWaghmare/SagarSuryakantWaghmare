@@ -62,12 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarWaghmare&layout=compact&theme=radical" alt="Top Languages" style="margin: 20px; animation: fadeIn 1.5s ease-in-out;" />
 </p>
 
-<style>
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
+
 
 ---
 
