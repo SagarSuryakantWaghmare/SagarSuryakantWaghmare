@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm <strong>Sagar Suryakant Waghmare</strong></h1>
-<h3 align="center">A Passionate Frontend Developer, UI/UX Designer & Full Stack MERN Developer 🚀</h3>
+# Hi 👋, I'm **Sagar Suryakant Waghmare**  
+### A Passionate Frontend Developer, UI/UX Designer & Full Stack MERN Developer 🚀
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/your-profile-image" alt="Sagar Suryakant Waghmare" width="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
 </p>
 
-<p align="center">
-  <em>"Design is intelligence made visible." - Alina Wheeler</em>
-</p>
+<p align="center" style="font-size: 18px; font-style: italic;">“Design is intelligence made visible.” - Alina Wheeler</p>
 
 ---
 
-<h2 align="center">🚀 About Me:</h2>
+<h2 align="center" style="color: #4B0082;">🚀 About Me:</h2>
 
-<ul>
+<ul style="list-style-type: none; padding: 0; text-align: center;">
   <li>🌍 <strong>Based in India</strong></li>
   <li>🔭 Currently working on <a href="#">TradeConnect</a></li>
   <li>🌱 Learning: <strong>MERN Stack</strong> & <strong>AWS Cloud</strong></li>
@@ -24,7 +22,7 @@
 
 ---
 
-<h2 align="center">🌐 Connect with me:</h2>
+<h2 align="center" style="color: #4B0082;">🌐 Connect with me:</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sagar-waghmare/" target="_blank">
@@ -40,7 +38,7 @@
 
 ---
 
-<h2 align="center">🛠️ Skills & Tools:</h2>
+<h2 align="center" style="color: #4B0082;">🛠️ Skills & Tools:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -56,15 +54,13 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats:</h2>
+<h2 align="center" style="color: #4B0082;">📊 GitHub Stats:</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SagarWaghmare&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 20px; animation: fadeIn 1.5s ease-in-out;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagarWaghmare&theme=radical" alt="GitHub Streak" style="margin: 20px; animation: fadeIn 1.5s ease-in-out;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarWaghmare&layout=compact&theme=radical" alt="Top Languages" style="margin: 20px; animation: fadeIn 1.5s ease-in-out;" />
 </p>
-
----
 
 <style>
   @keyframes fadeIn {
@@ -73,4 +69,6 @@
   }
 </style>
 
-<h2 align="center">Thanks for visiting my profile! Let's build something amazing together! 👨‍💻</h2>
+---
+
+<h2 align="center" style="color: #4B0082;">Thanks for visiting my profile! Let's build something amazing together! 👨‍💻</h2>
