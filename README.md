@@ -2,9 +2,6 @@
 
 ### A Passionate Frontend Developer, UI/UX Designer & Full Stack MERN Developer 🚀
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-profile-image" alt="Sagar Suryakant Waghmare" width="150" style="border-radius: 50%;"/>
-</p>
 
 > “Design is intelligence made visible.” - *Alina Wheeler*
 
