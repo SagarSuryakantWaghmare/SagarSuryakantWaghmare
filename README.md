@@ -2,7 +2,6 @@
 
 ### A Passionate Frontend Developer, UI/UX Designer & Full Stack MERN Developer 🚀
 
-
 > “Design is intelligence made visible.” - *Alina Wheeler*
 
 ---
