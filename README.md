@@ -1,51 +1,18 @@
-# Hi 👋, I'm **Sagar Suryakant Waghmare**
+# 💫 About Me:
+India<br>- 🔭 Currently working on TradeConnect,farmfresh<br>- 🌱 Learning: **MERN Stack** & **AWS Cloud**<br>- 💬 Ask me about **React, Vite, MongoDB, JavaScript, UI/UX Design**<br>- 📫 Reach me at: **sagarwaghmare1384@gmail.com**<br>- ⚡ Fun Fact: **Consistency is my key to success!**
 
-### A Passionate Frontend Developer, UI/UX Designer & Full Stack MERN Developer 🚀
 
-> “Design is intelligence made visible.” - *Alina Wheeler*
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sagarwaghmare) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sagarwaghmare) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sagar_2004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-waghmare-83b017266) 
 
----
-
-### 🌟 About Me:
-- 🌍 Based in **India**
-- 🔭 Currently working on **[TradeConnect](#)**
-- 🌱 Learning: **MERN Stack** & **AWS Cloud**
-- 💬 Ask me about **React, Vite, MongoDB, JavaScript, UI/UX Design**
-- 📫 Reach me at: **sagarwaghmare1384@gmail.com**
-- ⚡ Fun Fact: **Consistency is my key to success!**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sagarsuryakantwaghmare&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sagarsuryakantwaghmare&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsuryakantwaghmare&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sagarsuryakantwaghmare&icon=0&color=3)](https://visitcount.itsvg.in)
 
-### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/sagar-waghmare/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/sagar_waghmare" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://leetcode.com/sagar_waghmare/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-</p>
-
----
-
-### 🛠️ Skills & Tools:
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SagarWaghmare&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagarWaghmare&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-
----
-
-Thanks for visiting! Let’s create something incredible together 👨‍💻
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
