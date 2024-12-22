@@ -1,6 +1,6 @@
 # 💫 About Me:
 India<br>- 🔭 Currently working on TradeConnect,farmfresh<br>- 🌱 Learning: **MERN Stack** & **AWS Cloud**<br>- 💬 Ask me about **React, Vite, MongoDB, JavaScript, UI/UX Design**<br>- 📫 Reach me at: **sagarwaghmare1384@gmail.com**<br>- ⚡ Fun Fact: **Consistency is my key to success!**
-
+There is no day of untill I achieve my dream 
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sagarwaghmare) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sagarwaghmare) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@sagar_2004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-waghmare-83b017266) 
