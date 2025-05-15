@@ -74,9 +74,12 @@
 
 ### 🏆 GitHub Trophies
 
-![trophy]([https://github-profile-trophy.vercel.app/?username=SagarSuryakantWaghmare&theme=gruvbox&no-frame=true&row=1&margin-w=15](https://github-profile-trophy.vercel.app/?username=SagarSuryakantWaghmare)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SagarSuryakantWaghmare&theme=gruvbox&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 ---
+
 
 ### 👀 Profile Views
 
