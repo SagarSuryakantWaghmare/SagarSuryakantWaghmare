@@ -11,8 +11,7 @@
 
 - 🔭 Currently working on **TradeConnect** & **FarmFresh**
 - 🌱 Learning **MERN Stack** & **AWS Cloud**
-- 👨💻 All projects available at [My Portfolio](https://your-portfolio-link.com)
-- 📝 Regularly write articles on [My Blog](https://your-blog-link.com)
+- 👨💻 All projects available at [My Portfolio]([https://your-portfolio-link.com](https://sagar-portfolio-dun.vercel.app/)
 - 📫 Reach me **sagarwaghmare1384@gmail.com**
 - ⚡ Fun fact **I can solve a Rubik's Cube in under 2 minutes!**
 
@@ -56,7 +55,7 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sagar-waghmare-83b017266">
+  <a href="[https://www.linkedin.com/in/sagarwaghmare44/]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/sagar_2004">
