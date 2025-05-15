@@ -10,9 +10,9 @@ There are no days off until I achieve my dream. In 2025, I will give my maximum 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvawandhare&show_icons=true&theme=tokyonight" alt="Atharva's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=atharvawandhare&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvawandhare&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SagarSuryakantWaghmare&show_icons=true&theme=tokyonight" alt="Atharva's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SagarSuryakantWaghmare&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarSuryakantWaghmare&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
