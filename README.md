@@ -10,8 +10,8 @@
 ### 🚀 About Me
 
 - 🔭 Currently working on **TradeConnect** & **FarmFresh**
-- 🌱 Learning **MERN Stack** & **AWS Cloud**
-- 👨💻 All projects available at [My Portfolio]([https://sagar-portfolio-dun.vercel.app/])
+- 🌱 Learning **Next JS** & **AWS Cloud**
+- 👨💻 All projects available at [My Portfolio](https://sagar-portfolio-dun.vercel.app/)
 - 📫 Reach me **sagarwaghmare1384@gmail.com**
 - ⚡ Fun fact **I can solve a Rubik's Cube in under 2 minutes!**
 
