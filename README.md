@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full-Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F729&center=true&vCenter=true&width=435&lines=Consistency+is+my+key+to+success!;MERN+Stack+Developer;UI%2FUX+Design+Enthusiast;AWS+Cloud+Learner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=#00CFFF&center=true&vCenter=true&width=435&lines=Consistency+is+my+key+to+success!;MERN+Stack+Developer;UI%2FUX+Design+Enthusiast;AWS+Cloud+Learner" alt="Typing SVG" /></a>
 </p>
 
 ---
