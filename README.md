@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **TradeConnect** & **FarmFresh**
+- 🔭 Currently working on **FreeFlow**
 - 🌱 Learning **Next JS** & **AWS Cloud**
 - 👨💻 All projects available at [My Portfolio](https://sagar-portfolio-dun.vercel.app/)
 - 📫 Reach me **sagarwaghmare1384@gmail.com**
