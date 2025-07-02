@@ -2,9 +2,10 @@
 <h3 align="center">A Passionate Full-Stack Developer 
 
 <p align="center">
- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=435&lines=Just+pushing+Forward;MERN+Stack+Developer;UI%2FUX+Design+Enthusiast;AWS+Cloud+Learner" alt="Typing SVG" />
+<a href="https://git.io/typing-svg" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&width=500&height=100&lines=🚀 Just+Pushing+Forward;💻 MERN+Stack+Developer;🎨 UI%2FUX+Design+Enthusiast;☁️ AWS+Cloud+Explorer" alt="Typing SVG" />
 </a>
+
 
 </p>
 
