@@ -3,8 +3,14 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&width=500&height=100&lines=🚀 Just+Pushing+Forward;💻 MERN+Stack+Developer;🎨 UI%2FUX+Design+Enthusiast;☁️ AWS+Cloud+Explorer" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=800&color=00CFFF&center=true&vCenter=true&width=500&height=60&lines=Just+pushing+Forward;MERN+Stack+Developer;UI%2FUX+Design+Enthusiast;AWS+Cloud+Learner" 
+    alt="Typing SVG" 
+    style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,207,255,0.5);" 
+  />
 </a>
+
+
 
 
 </p>
