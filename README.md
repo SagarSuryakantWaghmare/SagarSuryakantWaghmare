@@ -53,7 +53,7 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SagarSuryakantWaghmare&show_icons=true&theme=gruvbox" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SagarSuryakantWaghmare&theme=gruvbox" />
+  <img src="https://streak-stats.demolab.com?user=SagarSuryakantWaghmare&theme=dark&hide_border=true" alt="SagarSuryakantWaghmare's GitHub Stats" />
 </div>
 
 <div align="center">
