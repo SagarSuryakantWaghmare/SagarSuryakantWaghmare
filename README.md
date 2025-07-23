@@ -52,9 +52,12 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SagarSuryakantWaghmare&show_icons=true&theme=gruvbox" />
-  <img src="https://streak-stats.demolab.com?user=SagarSuryakantWaghmare&theme=dark&hide_border=true" alt="SagarSuryakantWaghmare's GitHub Stats" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=SagarSuryakantWaghmare&show_icons=true&theme=gruvbox" />
 </div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SagarSuryakantWaghmare&theme=dark" alt="GitHub Streak" />
+</p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarSuryakantWaghmare&layout=compact&theme=gruvbox" />
