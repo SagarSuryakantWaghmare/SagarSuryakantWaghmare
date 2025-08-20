@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sagar Waghmare</h1>
 <h3 align="center">A Passionate Full-Stack Developer 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=SagarSuryakantWaghmare&label=Profile%20views&color=0e75b6&style=flat" alt="Sagar's Profile Views" /> 
+</p>
 
 <p align="center">
 <a href="https://git.io/typing-svg" target="_blank">
@@ -93,8 +96,6 @@
 ---
 
 
-### 👀 Profile Views
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=SagarSuryakantWaghmare&label=Profile%20views&color=0e75b6&style=flat" alt="Sagar's Profile Views" /> 
-</p>
+
+
