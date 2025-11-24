@@ -74,7 +74,7 @@
   <a href="[https://www.linkedin.com/in/sagarwaghmare44/]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/_sagar_2004">
+  <a href="https://instagram.com/_sagar__2004">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:sagarwaghmare1384@gmail.com">
