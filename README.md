@@ -1,6 +1,6 @@
-# 👋 Hi, I'm **Sagar**
+# 👋 Hi, I'm **Sagar Suryakant Waghmare**
 
-### 🚀 Full Stack Developer | 🌍 Chhatrapati Sambhajinagar
+### 🚀 Full Stack Developer | 🎨 UI/UX Designer | ⚡ Next.js Developer | 🌍 Chhatrapati Sambhajinagar
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sagarsuryakantwaghmare&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
