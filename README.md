@@ -10,7 +10,7 @@
 
 ## 💡 About Me
 
-* 🔭 Currently working on: **[Procraft – AI Resume Builder](https://procraft-ai-resume.vercel.app/)**
+* 🔭 Currently working on: **[Procraft – AI Resume Builder](https://procraft-ai-resume.vercel.app/)** and virtual labs
 * 🌱 Learning: **Next.js, AWS Cloud**
 * 👨‍💻 Portfolio: **[https://devsagar.tech/](https://devsagar.tech/)**
 * 💬 Ask me about: **React, Vite, MongoDB**
