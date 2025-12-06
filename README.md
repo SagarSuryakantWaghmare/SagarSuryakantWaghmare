@@ -28,7 +28,7 @@
   **[sagarwaghmare1384@gmail.com](mailto:sagarwaghmare1384@gmail.com)**
 
 * ⚡ **Fun Fact:**
-  **I’m insanely consistent—if I start something, I finish it with perfection.**
+  **I’m insanely consistent if I start something, I finish it with perfection.**
 
 ---
 
