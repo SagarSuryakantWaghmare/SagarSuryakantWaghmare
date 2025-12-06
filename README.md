@@ -1,6 +1,8 @@
 # 👋 Hi, I'm **Sagar Suryakant Waghmare**
 
-### 🚀 Full Stack Developer | 🎨 UI/UX Designer | ⚡ Next.js Developer | 🌍 Chhatrapati Sambhajinagar
+### 🚀 Full Stack Developer | 🎨 UI/UX Designer | ⚡ Next.js Specialist
+
+🌍 Based in **Chhatrapati Sambhajinagar, India**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sagarsuryakantwaghmare&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,12 +12,23 @@
 
 ## 💡 About Me
 
-* 🔭 Currently working on: **[Procraft – AI Resume Builder](https://procraft-ai-resume.vercel.app/)** and virtual labs
-* 🌱 Learning: **Next.js, AWS Cloud**
-* 👨‍💻 Portfolio: **[https://devsagar.tech/](https://devsagar.tech/)**
-* 💬 Ask me about: **React, Vite, MongoDB**
-* 📫 Email: **[sagarwaghmare1384@gmail.com](mailto:sagarwaghmare1384@gmail.com)**
-* ⚡ Fun fact: **I’m extremely consistent with my work**
+* 🔭 **Currently Building:**
+  **[Procraft – AI Resume Builder](https://procraft-ai-resume.vercel.app/)** and interactive virtual labs.
+
+* 🌱 **Actively Learning:**
+  **Next.js**, **AWS Cloud**, and scalable system design.
+
+* 👨‍💻 **My Portfolio:**
+  **[https://devsagar.tech/](https://devsagar.tech/)**
+
+* 💬 **Ask Me About:**
+  Frontend engineering, **React**, **Vite**, **Next.js**, **MongoDB**, and UI/UX best practices.
+
+* 📫 **Reach Me At:**
+  **[sagarwaghmare1384@gmail.com](mailto:sagarwaghmare1384@gmail.com)**
+
+* ⚡ **Fun Fact:**
+  **I’m insanely consistent—if I start something, I finish it with perfection.**
 
 ---
 
