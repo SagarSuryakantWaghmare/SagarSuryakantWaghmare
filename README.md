@@ -19,7 +19,7 @@
   **Next.js**, **AWS Cloud**, and scalable system design.
 
 * 👨‍💻 **My Portfolio:**
-  **[https://devsagar.tech/](https://devsagar.tech/)**
+  **[https://sagarwaghmare.onilne/](https://sagarwaghmare.onilne/)**
 
 * 💬 **Ask Me About:**
   Frontend engineering, **React**, **Vite**, **Next.js**, **MongoDB**, and UI/UX best practices.
